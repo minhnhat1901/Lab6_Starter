@@ -1,6 +1,7 @@
 # Lab 6 - Starter
 
-Collaboration: 
+Collaboration:
+
     - Minh Duong
     - Gil Keidar
 
